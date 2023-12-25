@@ -1,0 +1,28 @@
+Welcome to file sorter:
+These are the things which you can do using our file sorter:
+   1. Sorting files automatically in one click.
+
+   2.Create any number of folders with one click.
+
+   3.Rename folders in a fast way.
+
+   4.delete files easily.
+--------------------------------------------------------------------------
+This GUI was made by python 
+Modules used are:
+   1.OS module
+   2.Shutil module
+   3.Tkinter & CustomTkinter module
+   4.PILLOW module
+   5.Time module
+   6.random module
+---------------------------------------------------------------------------
+
+SORT--sort files using extension
+CREATE FOLDER--create folders in selected directory with name and number of folders
+RENAME FOLDER--rename folders/files by writing old and new name 
+PREMANENT DELETE FILES--select files to delete and press delete button to permanent delete those files.
+
+---------------------------------------------------------------------------
+>>for more details and feedback contact -- aryensiwach@gmail.com
+>>>>>developed by ARYENDRA CHAUDHARY
